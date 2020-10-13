@@ -12,7 +12,7 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          Resume
+          My Resume
         </a>
         <a
           href="https://github.com/hartsean"
