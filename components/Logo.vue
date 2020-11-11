@@ -1,6 +1,6 @@
 <template>
   <div class="image-cropper">
-    <img src="http://hartsean.com/headshotBWsquare.png" class="profile-pic">
+    <!-- <img src="http://hartsean.com/headshotBWsquare.png" class="profile-pic"> -->
   </div>
 </template>
 
