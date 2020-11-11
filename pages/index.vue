@@ -1,16 +1,20 @@
 <template>
   <div class="container">
     <div>
-      <Logo />
       <h1 class="title">
-        seanhart.io
+        Sean Hart
       </h1>
+      <div class="about subtitle">
+        <p>Hi, I am a musician, web developer and budding software engineer.  Currently seeking a full-time position at a technology company.</p>
+        <p>If you want to work together, <a href="mailto:hartsean@gmail.com?Subject=Sean%20Hart%20Website%20Inquiry">email me here</a>. Thanks!</p>
+      </div>
+      <Logo />
       <div class="links">
         <a
-          href="http://hartsean.com/images/img/resume.pdf"
+          href="http://hartsean.com/Sean_Hart_Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--green"
+          class="button--green b-g"
         >
           My Resume
         </a>
@@ -28,11 +32,11 @@
 </template>
 
 <script>
-export default {}
 </script>
 
 <style>
 .container {
+  background: #fef9e9;
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
@@ -40,7 +44,11 @@ export default {}
   align-items: center;
   text-align: center;
 }
-
+a.b-g:hover{
+  color: #FFF!important;
+  background: #44b6af!important;
+  background: fixed;
+}
 .title {
   font-family:
     'Quicksand',
@@ -55,7 +63,7 @@ export default {}
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
+  color: #232323;
   letter-spacing: 1px;
 }
 
@@ -66,8 +74,14 @@ export default {}
   word-spacing: 5px;
   padding-bottom: 15px;
 }
-
+a{
+  color: #44b6af;
+}
+a:hover {
+  color: #526488;
+}
 .links {
   padding-top: 15px;
 }
+
 </style>
