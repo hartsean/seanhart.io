@@ -5,7 +5,7 @@
         Sean Hart
       </h1>
       <div class="about subtitle">
-        <p>Hi, I am a musician, web developer and budding software engineer.  Currently seeking a full-time position at a technology company.</p>
+        <p>Hi, I am a musician, web developer and budding software engineer.</p><p>Currently seeking a full-time position at a technology company.</p>
         <p>If you want to work together, <a href="mailto:hartsean@gmail.com?Subject=Sean%20Hart%20Website%20Inquiry">email me here</a>. Thanks!</p>
       </div>
       <Logo />
