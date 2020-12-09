@@ -5,7 +5,7 @@
         Sean Hart
       </h1>
       <div class="about subtitle">
-        <p>Hi, I am a musician, designer and full-stack developer.</p><p>Currently seeking a full-time position at a technology company.</p>
+        <p>Hi, I play the drums, design websites and develop apps.</p>
         <p>If you want to work together, <a href="mailto:hartsean@gmail.com?Subject=Sean%20Hart%20Website%20Inquiry">email me here</a>. Thanks!</p>
       </div>
       <Logo />
@@ -18,14 +18,14 @@
         >
           My Resume
         </a>
-        <a
+        <!-- <a
           href="https://github.com/hartsean"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
         >
           GitHub
-        </a>
+        </a> -->
         <a
           href="http://hartsean.com"
           target="_blank"
