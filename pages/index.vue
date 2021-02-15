@@ -5,27 +5,11 @@
         Sean Hart
       </h1>
       <div class="about subtitle">
-        <p>Hi, I play the drums, design websites and develop apps.</p>
-        <p>If you want to work together, <a href="mailto:hartsean@gmail.com?Subject=Sean%20Hart%20Website%20Inquiry">email me here</a>. Thanks :)</p>
+        <p>plays drums, designs websites, and builds apps.</p>
+        <p>If you want to work together, <a href="mailto:hartsean@gmail.com?Subject=Sean%20Hart%20Website%20Inquiry">shoot me an email</a>. Thanks :)</p>
       </div>
       <Logo />
       <div class="links">
-        <!-- <a
-          href="http://hartsean.com/Sean_Hart_Resume.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green b-g"
-        >
-          My Resume
-        </a> -->
-        <!-- <a
-          href="https://github.com/hartsean"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a> -->
         <a
           href="http://hartsean.com"
           target="_blank"
@@ -33,6 +17,14 @@
           class="button--green b-g"
         >
           Past Work
+        </a>
+        <a
+          href="https://affectionate-aryabhata-d2b1f5.netlify.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--blue b-b"
+        >
+          No Smoking
         </a>
       </div>
     </div>
@@ -54,25 +46,17 @@
 }
 a.b-g:hover{
   color: #FFF!important;
-  background: #44b6af!important;
+  background: #016FB9!important;
   background: fixed;
 }
 .title {
-  font-family:
-    'Quicksand',
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   display: block;
-  font-weight: 300;
-  font-size: 100px;
   color: #232323;
-  letter-spacing: 1px;
+  min-height: 100%;
 }
 
 .subtitle {
