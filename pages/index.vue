@@ -6,7 +6,7 @@
       </h1>
       <div class="about subtitle">
         <p>plays drums, designs websites, and builds apps.</p>
-        <p>If you want to work together, <a href="mailto:hartsean@gmail.com?Subject=Sean%20Hart%20Website%20Inquiry">shoot me an email</a>. Thanks :)</p>
+        <p>If you want to work together, <a href="mailto:hartsean@gmail.com?Subject=Your%20Subject">shoot me an email</a>. Thanks <span class="smiley">:)</span></p>
       </div>
       <Logo />
       <div class="links">
@@ -22,7 +22,7 @@
           href="https://affectionate-aryabhata-d2b1f5.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--blue b-b"
+          class="button--green b-g"
         >
           No Smoking
         </a>
@@ -45,9 +45,18 @@
   text-align: center;
 }
 a.b-g:hover{
-  color: #FFF!important;
-  background: #016FB9!important;
+  color: #DA2c38;
   background: fixed;
+
+}
+.smiley {
+  color: red;;
+}
+a {
+  color: #016FB9;
+}
+a:hover{
+  color: #DA2c38;
 }
 .title {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
@@ -55,25 +64,14 @@ a.b-g:hover{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: block;
-  color: #232323;
+  color: #016FB9;
   min-height: 100%;
+  font-size: 3em;
 }
 
 .subtitle {
-  font-weight: 300;
-  font-size: 42px;
   color: #526488;
-  word-spacing: 5px;
   padding-bottom: 15px;
-}
-a{
-  color: #44b6af;
-}
-a:hover {
-  color: #526488;
-}
-.links {
-  padding-top: 15px;
 }
 
 </style>
