@@ -5,10 +5,8 @@
         Sean Hart
       </h1>
       <div class="about subtitle">
-        <p>plays drums, designs websites, and builds apps.</p>
-        <p>If you want to work together, <a href="mailto:hartsean@gmail.com?Subject=Your%20Subject">shoot me an email</a>. Thanks <span class="smiley">:)</span></p>
+        <p>musician, storyteller, traveler</p>
       </div>
-      <Logo />
       <div class="links">
         <a
           href="http://hartsean.com"
@@ -16,18 +14,21 @@
           rel="noopener noreferrer"
           class="button--green b-g"
         >
-          Past Work
+          History
         </a>
         <a
-          href="https://affectionate-aryabhata-d2b1f5.netlify.app/"
+          href="/future"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green b-g"
         >
-          No Smoking
+          Future
         </a>
       </div>
     </div>
+    <div class="smoking">
+        <a href="https://affectionate-aryabhata-d2b1f5.netlify.app/">🚬</a> 
+      </div>
   </div>
 </template>
 
@@ -49,9 +50,6 @@ a.b-g:hover{
   background: fixed;
 
 }
-.smiley {
-  color: red;;
-}
 a {
   color: #016FB9;
 }
@@ -72,6 +70,11 @@ a:hover{
 .subtitle {
   color: #526488;
   padding-bottom: 15px;
+}
+.smoking {
+  position: absolute;
+  float: left;
+  margin-left: 95%;
 }
 
 </style>
