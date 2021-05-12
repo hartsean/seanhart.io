@@ -1,11 +1,11 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title">
-        Sean Hart
-      </h1>
+      <h2 class="title">
+        sean hart
+      </h2>
       <div class="about subtitle">
-        <p>musician, storyteller, traveler</p>
+        design and code for the web; music
       </div>
       <div class="links">
         <a
@@ -14,21 +14,19 @@
           rel="noopener noreferrer"
           class="button--green b-g"
         >
-          History
+          Past
         </a>
         <a
-          href="/future"
+          href="/blog"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green b-g"
         >
-          Future
+        Current
         </a>
       </div>
     </div>
-    <div class="smoking">
-        <a href="https://affectionate-aryabhata-d2b1f5.netlify.app/">🚬</a> 
-      </div>
+    <!-- <a href="https://affectionate-aryabhata-d2b1f5.netlify.app/">🚬</a> -->
   </div>
 </template>
 
@@ -48,7 +46,6 @@
 a.b-g:hover{
   color: #DA2c38;
   background: fixed;
-
 }
 a {
   color: #016FB9;
@@ -62,19 +59,14 @@ a:hover{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: block;
-  color: #016FB9;
+  color: #000;
   min-height: 100%;
-  font-size: 3em;
+  font-size: 2.1em;
 }
 
 .subtitle {
   color: #526488;
   padding-bottom: 15px;
-}
-.smoking {
-  position: absolute;
-  float: left;
-  margin-left: 95%;
 }
 
 </style>
