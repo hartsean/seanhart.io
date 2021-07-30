@@ -5,7 +5,7 @@
         sean hart
       </h2>
       <div class="about subtitle">
-        design and code for the web; music
+        musician, developer
       </div>
       <div class="links">
         <a
@@ -14,15 +14,15 @@
           rel="noopener noreferrer"
           class="button--green b-g"
         >
-          Past
+          web design
         </a>
         <a
-          href="/blog"
+          href="https://www.linkedin.com/in/sean-c-hart/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green b-g"
         >
-        Current
+          current
         </a>
       </div>
     </div>

@@ -8,13 +8,11 @@
       </ul>
     </nav>
     <!-- Article Header -->
-    <img :src="require(`~/assets/images/${article.img}`)" :alt="article.alt" />
-    <h1>{{ article.title }} </h1>
-    <h2>{{ article.description }} </h2>
-    <h3>Article last updated: {{ formatDate(article.updatedAt) }}</h3>
+    <!-- <h1>{{ article.title }} </h1>
+    <h2>{{ article.description }} </h2> -->
 
-    <!-- See All Article Object Data
-    <pre> {{ article }} </pre> -->
+    <!-- See All Article Object Data -->
+    <pre> {{ article }} </pre>
 
     <!-- Article Content -->
     <nuxt-content :document="article" />
