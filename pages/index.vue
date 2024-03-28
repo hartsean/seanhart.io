@@ -2,10 +2,10 @@
   <div class="container">
     <div>
       <h2 class="title">
-        sean hart
-      </h2>
+        Sean Hart
+      </h2>2
       <div class="about subtitle">
-        musician, developer
+        Software Engineer, Web Developer, Customer Success
       </div>
       <div class="links">
         <a
@@ -35,7 +35,7 @@
 
 <style>
 .container {
-  background: #fef9e9;
+  background: #000;
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
