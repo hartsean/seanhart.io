@@ -9,20 +9,12 @@
       </div>
       <div class="links">
         <a
-          href="http://hartsean.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green b-g"
-        >
-          web design
-        </a>
-        <a
           href="https://www.linkedin.com/in/sean-c-hart/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green b-g"
         >
-          current
+          LinkedIn
         </a>
       </div>
     </div>
