@@ -14,7 +14,7 @@
           rel="noopener noreferrer"
           class="button--green b-g"
         >
-          LinkedIn
+          LinkedIn.
         </a>
       </div>
     </div>
