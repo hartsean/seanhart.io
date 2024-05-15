@@ -5,7 +5,7 @@
         Sean Hart
       </h2>2
       <div class="about subtitle">
-        Software Engineer, Web Developer, Customer Success
+        Software Engineer, Web Developer
       </div>
       <div class="links">
         <a
@@ -14,7 +14,7 @@
           rel="noopener noreferrer"
           class="button--green b-g"
         >
-          LinkedIn.
+          LinkedIn
         </a>
       </div>
     </div>
